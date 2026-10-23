@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-10-23 21:34:00",
+        "autore": "@juve_fan99",
+        "testo_grezzo": "Incredibile gol della Juventus contro il Rennes! Azione spettacolare! #JuveRennes",
+        "engagement_likes": 142,
+        "sorgente": "Web Scraper Live Feed"
+    },
+    {
+        "timestamp": "2026-10-23 21:36:00",
+        "autore": "@milanista_doc",
+        "testo_grezzo": "Ma come si fa a subire un gol così dal Bournemouth? Difesa imbarazzante stasera. #BournemouthMilan",
+        "engagement_likes": 89,
+        "sorgente": "Web Scraper Live Feed"
+    },
+    {
+        "timestamp": "2026-10-23 21:40:00",
+        "autore": "@tv_viewer",
+        "testo_grezzo": "Il livello dei cantanti di stasera a #XF2026 è pazzesco, il primo eliminato è un'ingiustizia",
+        "engagement_likes": 210,
+        "sorgente": "Web Scraper Live Feed"
+    },
+    {
+        "timestamp": "2026-10-23 21:42:00",
+        "autore": "@calcio_news",
+        "testo_grezzo": "Rigore negato alla Juventus? Contatto molto dubbio in area del Rennes.",
+        "engagement_likes": 45,
+        "sorgente": "Web Scraper Live Feed"
+    },
+    {
+        "timestamp": "2026-10-23 21:45:00",
+        "autore": "@rossonero_live",
+        "testo_grezzo": "Maignan salva il Milan con un miracolo pazzesco su Solanke! #BournemouthMilan",
+        "engagement_likes": 312,
+        "sorgente": "Web Scraper Live Feed"
+    },
+    {
+        "timestamp": "2026-10-23 21:48:00",
+        "autore": "@music_critc",
+        "testo_grezzo": "Puntata noiosa stasera a #XF2026, canzoni assegnate malissimo secondo me.",
+        "engagement_likes": 12,
+        "sorgente": "Web Scraper Live Feed"
+    }
+]

@@ -1,0 +1,7 @@
+timestamp,autore,testo_grezzo,engagement_likes,sorgente,testo_pulito,sentiment_score,sentiment_category
+2026-10-23 21:34:00,@juve_fan99,Incredibile gol della Juventus contro il Rennes! Azione spettacolare! #JuveRennes,142,Web Scraper Live Feed,incredibile gol della juventus contro il rennes azione spettacolare juverennes,0.625,Positivo
+2026-10-23 21:36:00,@milanista_doc,Ma come si fa a subire un gol così dal Bournemouth? Difesa imbarazzante stasera. #BournemouthMilan,89,Web Scraper Live Feed,ma come si fa a subire un gol così dal bournemouth difesa imbarazzante stasera bournemouthmilan,-0.3333333333333333,Negativo
+2026-10-23 21:40:00,@tv_viewer,"Il livello dei cantanti di stasera a #XF2026 è pazzesco, il primo eliminato è un'ingiustizia",210,Web Scraper Live Feed,il livello dei cantanti di stasera a xf2026 è pazzesco il primo eliminato è uningiustizia,0.30000000000000004,Positivo
+2026-10-23 21:42:00,@calcio_news,Rigore negato alla Juventus? Contatto molto dubbio in area del Rennes.,45,Web Scraper Live Feed,rigore negato alla juventus contatto molto dubbio in area del rennes,-0.45,Negativo
+2026-10-23 21:45:00,@rossonero_live,Maignan salva il Milan con un miracolo pazzesco su Solanke! #BournemouthMilan,312,Web Scraper Live Feed,maignan salva il milan con un miracolo pazzesco su solanke bournemouthmilan,0.7666666666666666,Positivo
+2026-10-23 21:48:00,@music_critc,"Puntata noiosa stasera a #XF2026, canzoni assegnate malissimo secondo me.",12,Web Scraper Live Feed,puntata noiosa stasera a xf2026 canzoni assegnate malissimo secondo me,-0.75,Negativo
