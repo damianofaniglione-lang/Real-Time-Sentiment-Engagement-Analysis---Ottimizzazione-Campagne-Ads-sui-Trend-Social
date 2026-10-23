@@ -15,9 +15,7 @@ Questo progetto di **Data Analytics** estrae, pulisce e analizza in tempo reale 
 * **Exploratory Data Analysis (EDA):** Algoritmi *Lexicon-Based* personalizzati per la mappatura del Sentiment in lingua italiana.
 * ![enriched_trends_data](enriched_trends_data.csv)
 * **Data Visualization:** `Matplotlib`, `Seaborn` (generazione di report grafici executive).
-* ![1_distribuzione_sentiment](1_distribuzione_sentiment.png)
-* ![2_engagement_trends](2_engagement_trends.png)
-* ![3_linea_temporale_engagement](3_linea_temporale_engagement.png)
+* Da visionare nelle sezioni successive.
 
 ---
 
@@ -45,11 +43,11 @@ Il trend legato al calcio mostra una forte polarizzazione negativa (45% di senti
 ---
 
 ## 📁 Struttura della Repository
-
-├── ![raw_trends_data](raw_trends_data.json)        # Script Fase 1: Data Ingestion & Acquisizione grezza
-├── ![cleaned_trends_data](cleaned_trends_data.csv)  # Output Fase 2: Dataset strutturato e normalizzato
-├── ![enriched_trends_data](enriched_trends_data.csv) # Output Fase 3: Dataset con calcolo del Sentiment Score
-├── ![1_distribuzione_sentiment](1_distribuzione_sentiment.png)  # Output Fase 4: Grafici e Report Visivi (.png)
-├── ![2_engagement_trends](2_engagement_trends.png)  
-└── ![3_linea_temporale_engagement](3_linea_temporale_engagement.png)
+```text
+├── scraper_trends.py        # Script Fase 1: Data Ingestion & Acquisizione grezza
+├── cleaned_trends_data.csv  # Output Fase 2: Dataset strutturato e normalizzato
+├── enriched_trends_data.csv # Output Fase 3: Dataset con calcolo del Sentiment Score
+├── 1_distribuzione_sentiment.png
+├── 2_engagement_trends.png  # Output Fase 4: Grafici e Report Visivi (.png)
+└── 3_linea_temporale_engagement.png
 ```
